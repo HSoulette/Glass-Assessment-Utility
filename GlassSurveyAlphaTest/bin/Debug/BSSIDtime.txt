@@ -1,0 +1,9800 @@
+timestamp: "" 
+-55
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-68
+timestamp: "" 
+-69
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-73
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-74
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-67
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-69
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-68
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-66
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-69
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-67
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-69
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-70
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-69
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-67
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-70
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-70
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-67
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-66
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-67
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-64
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-66
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-70
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-70
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-71
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-72
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-71
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-72
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-68
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-70
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-70
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-68
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-69
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-69
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-72
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-72
+timestamp: "" 
+-75
+timestamp: "" 
+-75
+timestamp: "" 
+-74
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-73
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-68
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-68
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-69
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-73
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-71
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-69
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-68
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-69
+timestamp: "" 
+-75
+timestamp: "" 
+-75
+timestamp: "" 
+-69
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-74
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-69
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-69
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-67
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-72
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-72
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-67
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-70
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-73
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-68
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-70
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-70
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-74
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-76
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-71
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-66
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-67
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-68
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-70
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-69
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-72
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-69
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-68
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-69
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-67
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-69
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-72
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-68
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-68
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-67
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-69
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-71
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-66
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-67
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-69
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-200
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-50
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-56
+timestamp: "" 
+-57
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-58
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-56
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-48
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-48
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-52
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-48
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-57
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-55
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-56
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-57
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-55
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-50
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-54
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-49
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-51
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-54
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-55
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-55
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-53
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-52
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-56
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-50
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-54
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-53
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-55
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-57
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-55
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-53
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-56
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-56
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-57
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-56
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-52
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-55
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-67
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-51
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-55
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-57
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-53
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-57
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-51
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-55
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-55
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-60
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-52
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-53
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-56
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-52
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-55
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-57
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-55
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-50
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-55
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-53
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-54
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-55
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-58
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-58
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-56
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-56
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-56
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-57
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-54
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-55
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-58
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-58
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-53
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-57
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-47
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-50
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-53
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-57
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-59
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-58
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-60
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-53
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-53
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-53
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-51
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-51
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-49
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-51
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-47
+timestamp: "" 
+-44
+timestamp: "" 
+-44
+timestamp: "" 
+-45
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-50
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-49
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-48
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-48
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-52
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-52
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-49
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-49
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-49
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-52
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-65
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-51
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-51
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-53
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-47
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-51
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-49
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-49
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-50
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-46
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-46
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-48
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-49
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-50
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-50
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-50
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-53
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-51
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-50
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-50
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-54
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-51
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-50
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-60
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-49
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-48
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-49
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-46
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-50
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-50
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-50
+timestamp: "" 
+-45
+timestamp: "" 
+-45
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-50
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-50
+timestamp: "" 
+-42
+timestamp: "" 
+-42
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-47
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-47
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-52
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-55
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-52
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-57
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-55
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-56
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-56
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-56
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-50
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-53
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-55
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-52
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-56
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-54
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-58
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-43
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-49
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-57
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-54
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-54
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-55
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-53
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-57
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-54
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-55
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-55
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-50
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-55
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-54
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-50
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-50
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-55
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-53
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-50
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-53
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-51
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-51
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-54
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-50
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-51
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-51
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-55
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-54
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-53
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-57
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-50
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-52
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-49
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-48
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-52
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-55
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-48
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-49
+timestamp: "" 
+-44
+timestamp: "" 
+-44
+timestamp: "" 
+-45
+timestamp: "" 
+-45
+timestamp: "" 
+-45
+timestamp: "" 
+-45
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-54
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-47
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-55
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-50
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-54
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-47
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-46
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-51
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-50
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-45
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-54
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-50
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-48
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-44
+timestamp: "" 
+-44
+timestamp: "" 
+-44
+timestamp: "" 
+-45
+timestamp: "" 
+-44
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-54
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-48
+timestamp: "" 
+-53
+timestamp: "" 
+-49
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-53
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-39
+timestamp: "" 
+-44
+timestamp: "" 
+-44
+timestamp: "" 
+-49
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-58
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-67
+timestamp: "" 
+-74
+timestamp: "" 
+-74
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-62
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-60
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-68
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-64
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-72
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-71
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-67
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-60
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-66
+timestamp: "" 
+-41
+timestamp: "" 
+-41
+timestamp: "" 
+-39
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-61
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-65
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-71
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-60
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-63
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-53
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-52
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-52
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-50
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-54
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-44
+timestamp: "" 
+-47
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-46
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-47
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-46
+timestamp: "" 
+-47
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-52
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-54
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-57
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-50
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-54
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-54
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-54
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-58
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-55
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-56
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-57
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-56
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-54
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-59
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-54
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-56
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-55
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-47
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-50
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-52
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-54
+timestamp: "" 
+-44
+timestamp: "" 
+-44
+timestamp: "" 
+-38
+timestamp: "" 
+-44
+timestamp: "" 
+-44
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-63
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-71
+timestamp: "" 
+-74
+timestamp: "" 
+-74
+timestamp: "" 
+-70
+timestamp: "" 
+-75
+timestamp: "" 
+-75
+timestamp: "" 
+-64
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-68
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-71
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-74
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-73
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-67
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-68
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-69
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-68
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-62
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-65
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-66
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-66
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-60
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-65
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-61
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-45
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-57
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-63
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-66
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-71
+timestamp: "" 
+-75
+timestamp: "" 
+-75
+timestamp: "" 
+-72
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-75
+timestamp: "" 
+-75
+timestamp: "" 
+-75
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-72
+timestamp: "" 
+-73
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-76
+timestamp: "" 
+-76
+timestamp: "" 
+-76
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-64
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-62
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-62
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-59
+timestamp: "" 
+-63
+timestamp: "" 
+-42
+timestamp: "" 
+-42
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-59
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-68
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-68
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-74
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-75
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-76
+timestamp: "" 
+-76
+timestamp: "" 
+-74
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-74
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-73
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-78
+timestamp: "" 
+-78
+timestamp: "" 
+-68
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-64
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-55
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-46
+timestamp: "" 
+-39
+timestamp: "" 
+-39
+timestamp: "" 
+-49
+timestamp: "" 
+-44
+timestamp: "" 
+-44
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-70
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-68
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-66
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-59
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-55
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-55
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-55
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-54
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-53
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-55
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-49
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-55
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-57
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-59
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-56
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-64
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-62
+timestamp: "" 
+-24
+timestamp: "" 
+-24
+timestamp: "" 
+-28
+timestamp: "" 
+-28
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-66
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-57
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-65
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-57
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-66
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-66
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-61
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-66
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-69
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-64
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-68
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-70
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-73
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-71
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-61
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-62
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-54
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-71
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-71
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-67
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-67
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-69
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-66
+timestamp: "" 
+-74
+timestamp: "" 
+-74
+timestamp: "" 
+-70
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-77
+timestamp: "" 
+-77
+timestamp: "" 
+-77
+timestamp: "" 
+-75
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-78
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-66
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-77
+timestamp: "" 
+-76
+timestamp: "" 
+-76
+timestamp: "" 
+-72
+timestamp: "" 
+-77
+timestamp: "" 
+-77
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-73
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-57
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-70
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-71
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-65
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-72
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-72
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-70
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-67
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-67
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-68
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-67
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-66
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-71
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-67
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-70
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-67
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-66
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-70
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-68
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-65
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-62
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-62
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-62
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-63
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-63
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-62
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-62
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-59
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-61
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-61
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-59
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-59
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-63
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-63
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-59
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-62
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-63
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-64
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-64
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-64
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-62
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-62
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-63
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-59
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-60
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-63
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-65
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-59
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-64
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-66
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-64
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-58
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-59
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-59
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-61
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-58
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-59
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-61
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-58
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-64
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-64
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-62
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-68
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-69
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-70
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-70
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-68
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-66
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-71
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-69
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-66
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-72
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-69
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-66
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-73
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-72
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-54
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-55
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-73
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-64
+timestamp: "" 
+-66
+timestamp: "" 
+-72
+timestamp: "" 
+-77
+timestamp: "" 
+-77
+timestamp: "" 
+-75
+timestamp: "" 
+-79
+timestamp: "" 
+-79
+timestamp: "" 
+-77
+timestamp: "" 
+-77
+timestamp: "" 
+-75
+timestamp: "" 
+-76
+timestamp: "" 
+-76
+timestamp: "" 
+-79
+timestamp: "" 
+-75
+timestamp: "" 
+-75
+timestamp: "" 
+-76
+timestamp: "" 
+-77
+timestamp: "" 
+-77
+timestamp: "" 
+-75
+timestamp: "" 
+-75
+timestamp: "" 
+-77
+timestamp: "" 
+-77
+timestamp: "" 
+-77
+timestamp: "" 
+-76
+timestamp: "" 
+-79
+timestamp: "" 
+-79
+timestamp: "" 
+-73
+timestamp: "" 
+-82
+timestamp: "" 
+-82
+timestamp: "" 
+-79
+timestamp: "" 
+-80
+timestamp: "" 
+-80
+timestamp: "" 
+-84
+timestamp: "" 
+-82
+timestamp: "" 
+-82
+timestamp: "" 
+-82
+timestamp: "" 
+-81
+timestamp: "" 
+-81
+timestamp: "" 
+-83
+timestamp: "" 
+-86
+timestamp: "" 
+-86
+timestamp: "" 
+-85
+timestamp: "" 
+-85
+timestamp: "" 
+-85
+timestamp: "" 
+-85
+timestamp: "" 
+-84
+timestamp: "" 
+-84
+timestamp: "" 
+-86
+timestamp: "" 
+-86
+timestamp: "" 
+-84
+timestamp: "" 
+-83
+timestamp: "" 
+-83
+timestamp: "" 
+-82
+timestamp: "" 
+-83
+timestamp: "" 
+-83
+timestamp: "" 
+-200
+timestamp: "" 
+-41
+timestamp: "" 
+-41
+timestamp: "" 
+-41
+timestamp: "" 
+-40
+timestamp: "" 
+-40
+timestamp: "" 
+-36
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-41
+timestamp: "" 
+-39
+timestamp: "" 
+-39
+timestamp: "" 
+-40
+timestamp: "" 
+-35
+timestamp: "" 
+-35
+timestamp: "" 
+-43
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-50
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-55
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-50
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-75
+timestamp: "" 
+-75
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-53
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-79
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-76
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-76
+timestamp: "" 
+-76
+timestamp: "" 
+-78
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-54
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-54
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-59
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-64
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-56
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-74
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-75
+timestamp: "" 
+-72
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-56
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-52
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-59
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-54
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-52
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-52
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-70
+timestamp: "" 
+-75
+timestamp: "" 
+-44
+timestamp: "" 
+-53
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-53
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-48
+timestamp: "" 
+-44
+timestamp: "" 
+-44
+timestamp: "" 
+-43
+timestamp: "" 
+-42
+timestamp: "" 
+-42
+timestamp: "" 
+-42
+timestamp: "" 
+-42
+timestamp: "" 
+-42
+timestamp: "" 
+-43
+timestamp: "" 
+-42
+timestamp: "" 
+-42
+timestamp: "" 
+-41
+timestamp: "" 
+-42
+timestamp: "" 
+-42
+timestamp: "" 
+-42
+timestamp: "" 
+-45
+timestamp: "" 
+-45
+timestamp: "" 
+-46
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-45
+timestamp: "" 
+-43
+timestamp: "" 
+-43
+timestamp: "" 
+-46
+timestamp: "" 
+-44
+timestamp: "" 
+-44
+timestamp: "" 
+-45
+timestamp: "" 
+-45
+timestamp: "" 
+-45
+timestamp: "" 
+-44
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-45
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-46
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-44
+timestamp: "" 
+-45
+timestamp: "" 
+-45
+timestamp: "" 
+-46
+timestamp: "" 
+-45
+timestamp: "" 
+-45
+timestamp: "" 
+-46
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-45
+timestamp: "" 
+-46
+timestamp: "" 
+-45
+timestamp: "" 
+-45
+timestamp: "" 
+-44
+timestamp: "" 
+-45
+timestamp: "" 
+-45
+timestamp: "" 
+-44
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-46
+timestamp: "" 
+-43
+timestamp: "" 
+-43
+timestamp: "" 
+-43
+timestamp: "" 
+-44
+timestamp: "" 
+-44
+timestamp: "" 
+-45
+timestamp: "" 
+-45
+timestamp: "" 
+-46
+timestamp: "" 
+-45
+timestamp: "" 
+-45
+timestamp: "" 
+-44
+timestamp: "" 
+-46
+timestamp: "" 
+-44
+timestamp: "" 
+-44
+timestamp: "" 
+-43
+timestamp: "" 
+-43
+timestamp: "" 
+-46
+timestamp: "" 
+-44
+timestamp: "" 
+-44
+timestamp: "" 
+-45
+timestamp: "" 
+-44
+timestamp: "" 
+-44
+timestamp: "" 
+-46
+timestamp: "" 
+-43
+timestamp: "" 
+-43
+timestamp: "" 
+-46
+timestamp: "" 
+-44
+timestamp: "" 
+-44
+timestamp: "" 
+-44
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-45
+timestamp: "" 
+-44
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-53
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-55
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-58
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-56
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-58
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-65
+timestamp: "" 
+-75
+timestamp: "" 
+-75
+timestamp: "" 
+-75
+timestamp: "" 
+-76
+timestamp: "" 
+-76
+timestamp: "" 
+-74
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-74
+timestamp: "" 
+-74
+timestamp: "" 
+-73
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-74
+timestamp: "" 
+-79
+timestamp: "" 
+-79
+timestamp: "" 
+-78
+timestamp: "" 
+-81
+timestamp: "" 
+-81
+timestamp: "" 
+-84
+timestamp: "" 
+-84
+timestamp: "" 
+-84
+timestamp: "" 
+-82
+timestamp: "" 
+-84
+timestamp: "" 
+-84
+timestamp: "" 
+-83
+timestamp: "" 
+-83
+timestamp: "" 
+-82
+timestamp: "" 
+-81
+timestamp: "" 
+-81
+timestamp: "" 
+-79
+timestamp: "" 
+-78
+timestamp: "" 
+-78
+timestamp: "" 
+-77
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-73
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-70
+timestamp: "" 
+-74
+timestamp: "" 
+-74
+timestamp: "" 
+-72
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-73
+timestamp: "" 
+-75
+timestamp: "" 
+-75
+timestamp: "" 
+-72
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-74
+timestamp: "" 
+-76
+timestamp: "" 
+-74
+timestamp: "" 
+-74
+timestamp: "" 
+-74
+timestamp: "" 
+-75
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-68
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-55
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-51
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-51
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-70
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-69
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-72
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-74
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-74
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-72
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-60
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-51
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-55
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-41
+timestamp: "" 
+-41
+timestamp: "" 
+-44
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-55
+timestamp: "" 
+-59
+timestamp: "" 
+-59
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-63
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-65
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-74
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-47
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-45
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-45
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-49
+timestamp: "" 
+-48
+timestamp: "" 
+-48
+timestamp: "" 
+-41
+timestamp: "" 
+-39
+timestamp: "" 
+-39
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-62
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-58
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-57
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-42
+timestamp: "" 
+-47
+timestamp: "" 
+-45
+timestamp: "" 
+-45
+timestamp: "" 
+-41
+timestamp: "" 
+-44
+timestamp: "" 
+-44
+timestamp: "" 
+-57
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-66
+timestamp: "" 
+-75
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-63
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-56
+timestamp: "" 
+-66
+timestamp: "" 
+-52
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-45
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-64
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-70
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-71
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-73
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-73
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-75
+timestamp: "" 
+-75
+timestamp: "" 
+-64
+timestamp: "" 
+-65
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-59
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-63
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-60
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-55
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-69
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-76
+timestamp: "" 
+-39
+timestamp: "" 
+-38
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-57
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-68
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-53
+timestamp: "" 
+-57
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-69
+timestamp: "" 
+-74
+timestamp: "" 
+-74
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-51
+timestamp: "" 
+-57
+timestamp: "" 
+-57
+timestamp: "" 
+-44
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-59
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-66
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-72
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-65
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-54
+timestamp: "" 
+-47
+timestamp: "" 
+-47
+timestamp: "" 
+-41
+timestamp: "" 
+-44
+timestamp: "" 
+-44
+timestamp: "" 
+-54
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-60
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-72
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-72
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-72
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-66
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-66
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-70
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-66
+timestamp: "" 
+-69
+timestamp: "" 
+-74
+timestamp: "" 
+-74
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-73
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-75
+timestamp: "" 
+-75
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-64
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-73
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-71
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-69
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-62
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-66
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-62
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-200
+timestamp: "" 
+-200
+timestamp: "" 
+-68
+timestamp: "" 
+-70
+timestamp: "" 
+-70
+timestamp: "" 
+-66
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-60
+timestamp: "" 
+-58
+timestamp: "" 
+-58
+timestamp: "" 
+-59
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-59
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-48
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-47
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-51
+timestamp: "" 
+-50
+timestamp: "" 
+-50
+timestamp: "" 
+-54
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-49
+timestamp: "" 
+-41
+timestamp: "" 
+-41
+timestamp: "" 
+-42
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-61
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-64
+timestamp: "" 
+-41
+timestamp: "" 
+-41
+timestamp: "" 
+-38
+timestamp: "" 
+-38
+timestamp: "" 
+-38
+timestamp: "" 
+-39
+timestamp: "" 
+-38
+timestamp: "" 
+-38
+timestamp: "" 
+-39
+timestamp: "" 
+-38
+timestamp: "" 
+-38
+timestamp: "" 
+-40
+timestamp: "" 
+-39
+timestamp: "" 
+-39
+timestamp: "" 
+-33
+timestamp: "" 
+-33
+timestamp: "" 
+-50
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-59
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-67
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-72
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-71
+timestamp: "" 
+-74
+timestamp: "" 
+-74
+timestamp: "" 
+-69
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-71
+timestamp: "" 
+-71
+timestamp: "" 
+-70
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-63
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-66
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-67
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-54
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-73
+timestamp: "" 
+-72
+timestamp: "" 
+-72
+timestamp: "" 
+-73
+timestamp: "" 
+-43
+timestamp: "" 
+-43
+timestamp: "" 
+-40
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-61
+timestamp: "" 
+-65
+timestamp: "" 
+-65
+timestamp: "" 
+-70
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-69
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-55
+timestamp: "" 
+-61
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-39
+timestamp: "" 
+-39
+timestamp: "" 
+-38
+timestamp: "" 
+-38
+timestamp: "" 
+-38
+timestamp: "" 
+-50
+timestamp: "" 
+-56
+timestamp: "" 
+-56
+timestamp: "" 
+-59
+timestamp: "" 
+-61
+timestamp: "" 
+-61
+timestamp: "" 
+-68
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-62
+timestamp: "" 
+-64
+timestamp: "" 
+-64
+timestamp: "" 
+-63
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-67
+timestamp: "" 
+-68
+timestamp: "" 
+-68
+timestamp: "" 
+-67
+timestamp: "" 
+-66
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-52
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-53
+timestamp: "" 
+-51
+timestamp: "" 
+-51
+timestamp: "" 
+-66
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-47
+timestamp: "" 
+-46
+timestamp: "" 
+-46
+timestamp: "" 
+-49
+timestamp: "" 
+-49
+timestamp: "" 
+-56
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-64
+timestamp: "" 
+-66
+timestamp: "" 
+-66
+timestamp: "" 
+-69
+timestamp: "" 
+-62
+timestamp: "" 
+-62
+timestamp: "" 
+-56
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-60
+timestamp: "" 
+-63
+timestamp: "" 
+-63
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-54
+timestamp: "" 
+-53
+timestamp: "" 
+-54

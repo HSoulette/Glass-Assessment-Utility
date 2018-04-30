@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{0B1EC104-3928-4E90-A559-60AC9F397D6A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GlassSurveyAlphaTest/Form1.cs">
+    <Files>
+      <File FileName="GlassSurveyAlphaTest/Form1.Designer.cs" Line="1" Column="1" />
+      <File FileName="GlassSurveyAlphaTest/Form1.cs" Line="80" Column="18" />
+      <File FileName="GlassSurveyAlphaTest/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GlassSurveyAlphaTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

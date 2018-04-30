@@ -1,0 +1,2 @@
+mWifiInfo: [SSID: AugmedixPEAP, BSSID: 82:15:54:00:d1:e9, MAC: f4:f5:e8:13:33:7c, Supplicant state: COMPLETED, RSSI: -48, Link speed: 200, Net ID: 1, Metered hint: false]
+mWifiInfo SSID: AugmedixPEAP, BSSID: 82:15:54:00:d1:e9, MAC: f4:f5:e8:13:33:7c, Supplicant state: COMPLETED, RSSI: -48, Link speed: 200, Net ID: 1, Metered hint: false
